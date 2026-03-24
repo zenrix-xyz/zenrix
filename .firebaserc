@@ -1,14 +1,5 @@
 {
   "projects": {
     "default": "zenrix-esports-beta"
-  },
-  "targets": {
-    "zenrix-esports-beta": {
-      "hosting": {
-        "main-site": [
-          "zenrix"
-        ]
-      }
-    }
   }
 }
