@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "zenrix",
     "public": ".",
     "ignore": [
       "firebase.json",
